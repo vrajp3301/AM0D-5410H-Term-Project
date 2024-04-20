@@ -1,0 +1,4 @@
+streamlit==1.2.0
+textblob
+matplotlib==3.5.1
+pandas==2.0.1
