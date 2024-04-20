@@ -80,6 +80,6 @@ def sentiment_analysis():
             # Display the sentiment
             st.write(f"Sentiment: {sentiment}")
 
-
+st.set_page_config(page_title="Term Project")
 # Run the main menu
 main_menu()
